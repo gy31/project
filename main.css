@@ -55,6 +55,23 @@ input {
   margin-bottom: 7px;
 }
 
+.main-book-rank-badge {
+  margin-bottom: 5px;
+  background-color: #20a22bcf;
+  border: 1px solid #20a22bcf;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+
+.main-book-rank-num {
+  position: absolute;
+  transform: translate(80%, 20%);
+  color: rgb(255, 255, 255);
+  font-size: 21px;
+  font-weight: bold;
+}
+
 .main h3 {
   display: block;
   padding-left: 120px;
